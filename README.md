@@ -52,6 +52,8 @@ Datasets:
   
   b. clean_customer_dataset.ipynb: basic exploration and data cleaning for demographic data set 'Udacity_CUSTOMERS_052018.csv'
   
+  c. clean_test_dataset.ipynb: basic exploration and data cleaning for demographic data set 'Udacity_MAILOUT_052018_TEST.csv'
+  
   c. clustering_population.ipynb: performs minibatch KMeans clustering on the population data and projects the customer data onto the population data.
   
   d. lda_model.ipynb: performs cleaning and transformation of the training data and applies LDA algorithm to build the model.
