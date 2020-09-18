@@ -20,8 +20,10 @@ Datasets:
   b. Converting categorical features into numerical using binary encoding for binary features, one-hot-encoding for features with less category, and numerical encoding for larger categories where memory requirement for on-hot encoding becomes impractical. This procedure can also be more fine tuend for improving accuracy.
   
   c. Imputing the NaNs using most frequent occurance. Since the data is categorical, this approach is a better choice. 
+
+  d. Identifying highly correlated features by computing pearson correlation. Removed the features that were correlated by >0.8 Pearson correlation coefficient.
   
-  d. Scaling the data using minmax scaler in sklearn and also trying standard scaler in sklearn
+  e. Scaling the data using minmax scaler in sklearn and also trying standard scaler in sklearn
   
 # 2) Preparing the data for 10-fold cross validation preparation
 
