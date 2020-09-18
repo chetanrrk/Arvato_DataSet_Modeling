@@ -48,7 +48,7 @@ Datasets:
  
  # 5) Codes
  
-  a. clean_datasets.ipynb: basic exploration and data cleaning for demographic data set 'Udacity_AZDIAS_052018.csv'
+  a. clean_population_datasets.ipynb: basic exploration and data cleaning for demographic data set 'Udacity_AZDIAS_052018.csv'
   
   b. clean_customer_dataset.ipynb: basic exploration and data cleaning for demographic data set 'Udacity_CUSTOMERS_052018.csv'
   
