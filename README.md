@@ -25,7 +25,7 @@ Datasets:
   
   e. Scaling the data using minmax scaler in sklearn and also trying standard scaler in sklearn
   
-# 2) Preparing the data for 10-fold cross validation preparation
+# 2) Preparing the data for 10-fold cross validation 
 
   a. The dataset was highly imbalanced. Undersampling the overly represented class was undertaken. 
   
